@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour
 {
     public PlayerInput playerInput;
     public Animator animator;
+    public RuntimeAnimatorController elephantController;
+    public RuntimeAnimatorController lionController;
     public Rigidbody2D rb;
 
     public Transform ground;
@@ -18,22 +20,28 @@ public class PlayerController : MonoBehaviour
     private bool onGround;
 
     private InputAction moveAction;
+    private InputAction morphAction;
     private InputAction abilityAction;
     private Vector2 movement = new Vector2(0, 0);
     private bool ability = false;
+    private bool morphing = false;
 
     private int morph = 0;
     // 0 = Lion
-    // 0 = Bat
-    // 0 = Elephant
+    // 1 = Elephant
 
     void Awake()
     {
         moveAction = playerInput.actions["Movement"];
         abilityAction = playerInput.actions["Ability"];
+        morphAction = playerInput.actions["Morph"];
+
+        animator.runtimeAnimatorController = lionController;
     }
     private void Update()
     {
+        morphing = morphAction.WasPressedThisFrame();
+
         animator.SetFloat("MovementX", movement.x);
 
         if (morph == 0)
@@ -62,6 +70,21 @@ public class PlayerController : MonoBehaviour
             }
         }
         animator.SetFloat("MovementY", yVel);
+
+        if (morphing)
+        {
+            if (morph == 0)
+            {
+                morph = 1;
+                animator.runtimeAnimatorController = elephantController;
+            }
+            else
+            {
+                morph = 0;
+                animator.runtimeAnimatorController = lionController;
+            }
+            morphing = false;
+        }
     }
 
     void FixedUpdate()
@@ -70,7 +93,6 @@ public class PlayerController : MonoBehaviour
         {
             ability = abilityAction.IsPressed();
             movement = moveAction.ReadValue<Vector2>();
-
             if (movement.y >= 0.5 && movement.x != 0)
             {
                 rb.AddForce(jumpForce * transform.up);
