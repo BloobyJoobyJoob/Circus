@@ -20,9 +20,17 @@ public class AudioManager : MonoBehaviour
     public AudioSource PlaySound(string soundName, bool playOnAwake = true, bool DestroyOnCompletion = true)
     {
         Sound sound = Array.Find(sounds, s => s.name == soundName);
+        if (sound == null)
+        {
+            Debug.LogError("Sound " + soundName + " not found!");
+        }
+        Debug.Log(sound.loop);
 
-        AudioSource audioSource = new AudioSource();
-        audioSource.loop = sound.loop; 
+        AudioSource audioSource = gameObject.AddComponent<AudioSource>();
+        audioSource.loop = sound.loop;
+        audioSource.volume = sound.defualtVolume;
+        audioSource.pitch = sound.defualtPitch;
+        audioSource.clip = sound.audioClip;
         if (playOnAwake)
         {
             audioSource.Play();
