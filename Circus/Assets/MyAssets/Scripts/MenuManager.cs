@@ -14,4 +14,10 @@ public class MenuManager : MonoBehaviour
     {
         AudioManager.instance.PlaySound("click", true, true);
     }
+
+    public void Animate(Animator anm)
+    {
+        anm.enabled = true;
+        Destroy(anm, 1);
+    }
 }

@@ -15,6 +15,8 @@ public class AudioManager : MonoBehaviour
             instance = this;
             DontDestroyOnLoad(this);
         }
+
+        PlaySound("theme", true, false);
     }
 
     public AudioSource PlaySound(string soundName, bool playOnAwake = true, bool DestroyOnCompletion = true)
