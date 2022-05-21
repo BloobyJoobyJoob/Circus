@@ -30,14 +30,14 @@
      units="px"
      width="1366px"
      inkscape:zoom="1.4142136"
-     inkscape:cx="631.0928"
-     inkscape:cy="480.12551"
+     inkscape:cx="-500.98514"
+     inkscape:cy="1306.7333"
      inkscape:window-width="3840"
      inkscape:window-height="2066"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g3735"
      borderlayer="true"
      showguides="true"
      inkscape:snap-global="false">
@@ -67,8 +67,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="TitleScreen"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#193c3e;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round"
        id="rect1179"
@@ -566,6 +565,396 @@
          id="text6655"><tspan
            sodipodi:role="line"
            id="tspan6653"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Comico;-inkscape-font-specification:Comico;fill:#ead4aa;fill-opacity:1;stroke-width:0.264583"
+           x="177.68205"
+           y="26.27578">escape</tspan></text>
+    </g>
+    <rect
+       style="fill:#193c3e;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect3579"
+       width="166.6875"
+       height="132.29167"
+       x="-240.59602"
+       y="321.79251"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <g
+       id="g3735"
+       transform="matrix(0.75522713,0,0,0.75522713,-278.82563,323.87521)">
+      <path
+         id="path3661"
+         style="fill:#b86f50;fill-opacity:1;stroke-width:1.35989;stroke-linecap:round;stroke-linejoin:round"
+         d="M 229.44087,99.196889 A 66.229392,66.229392 0 0 1 163.21149,165.42628 66.229392,66.229392 0 0 1 96.9821,99.196889 66.229392,66.229392 0 0 1 163.21149,32.967494 66.229392,66.229392 0 0 1 229.44087,99.196889 Z"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <path
+         id="path3663"
+         style="fill:#181425;stroke-width:1.12002;stroke-linecap:round;stroke-linejoin:round"
+         d="M 217.75916,99.196887 A 54.547676,54.547676 0 0 1 163.21149,153.74457 54.547676,54.547676 0 0 1 108.66381,99.196887 54.547676,54.547676 0 0 1 163.21149,44.649212 54.547676,54.547676 0 0 1 217.75916,99.196887 Z"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <path
+         id="path3665"
+         style="fill:#3a4466;fill-opacity:1;stroke-width:1.12002;stroke-linecap:round;stroke-linejoin:round"
+         d="m 159.64757,86.029987 a 35.738131,40.193025 0 0 0 -35.73814,40.193103 35.738131,40.193025 0 0 0 1.81347,12.57354 54.547678,54.547678 0 0 0 37.48875,14.94814 54.547678,54.547678 0 0 0 27.34612,-7.35347 35.738131,40.193025 0 0 0 4.82794,-20.16821 35.738131,40.193025 0 0 0 -35.73814,-40.193103 z"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <g
+         id="g3695"
+         transform="matrix(1.0582959,0,0,1.0582959,57.185069,-3.0676296)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302">
+        <ellipse
+           style="fill:#3a4466;fill-opacity:1;stroke-width:0.522401;stroke-linecap:round;stroke-linejoin:round"
+           id="ellipse3667"
+           cx="156.52414"
+           cy="9.3647261"
+           rx="8.3734875"
+           ry="17.556646"
+           transform="matrix(0.91521392,0.40296833,-0.22957282,0.97329149,0,0)" />
+        <ellipse
+           style="fill:#3a4466;fill-opacity:1;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round"
+           id="ellipse3669"
+           cx="125.67709"
+           cy="90.487503"
+           rx="22.357292"
+           ry="26.987501" />
+        <path
+           style="fill:#3a4466;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 145.91772,95.25 c 9.15955,1.58534 14.67751,13.27733 16.66875,22.35729 2.09534,9.55468 -12.24336,21.10716 -6.08542,28.7073 3.41457,4.21427 13.94644,-4.90017 16.27187,0 1.19586,2.51994 -2.90091,5.04546 -5.29167,6.48229 -5.81881,3.49707 -14.7858,8.34478 -19.97603,3.96875 -8.97088,-7.56362 7.84162,-25.71015 0.92604,-35.18959 -5.98387,-8.20232 -27.70508,1.50362 -29.23959,-8.53281 -1.61754,-10.5795 16.1804,-19.618472 26.72605,-17.79323 z"
+           id="path3671"
+           sodipodi:nodetypes="aaaaaaaaa" />
+        <ellipse
+           style="fill:#ead4aa;fill-opacity:1;stroke-width:0.586484;stroke-linecap:round;stroke-linejoin:round"
+           id="ellipse3673"
+           cx="-140.16504"
+           cy="87.171021"
+           rx="4.9329901"
+           ry="9.0154648"
+           transform="scale(-1,1)" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke-width:0.175352;stroke-linecap:round;stroke-linejoin:round"
+           id="ellipse3675"
+           cx="-130.35799"
+           cy="102.60246"
+           rx="1.47491"
+           ry="2.6955249"
+           transform="matrix(-0.99396035,0.10973978,0.10973978,0.99396035,0,0)" />
+        <ellipse
+           style="fill:#ead4aa;fill-opacity:1;stroke-width:0.0678309;stroke-linecap:round;stroke-linejoin:round"
+           id="ellipse3677"
+           cx="-131.74129"
+           cy="103.13069"
+           rx="0.53271604"
+           ry="1.1167235"
+           transform="matrix(-0.99248786,0.12234319,0.09269036,0.99569498,0,0)" />
+        <ellipse
+           style="fill:#3a4466;fill-opacity:1;stroke-width:0.638505;stroke-linecap:round;stroke-linejoin:round"
+           id="ellipse3679"
+           cx="75.604454"
+           cy="115.05387"
+           rx="10.678835"
+           ry="20.565746"
+           transform="matrix(0.90309152,-0.42944814,0.29111984,0.95668659,0,0)" />
+        <path
+           id="path3681"
+           style="fill:#ead4aa;stroke-width:0.561784;stroke-linecap:round;stroke-linejoin:round"
+           transform="matrix(0.93529456,-0.35387016,0.74558283,0.66641296,0,0)"
+           d="m -1.5402443,176.84981 c 2e-7,5.77195 2.30636303,10.00714 0.1499879,10.00714 -2.1563751,0 -5.2695502,-10.8082 -5.26955,-16.58015 -2e-7,-5.77195 4.7909521,-6.23842 6.26237305,-5.12825 1.43260435,1.08088 -1.14281075,5.92931 -1.14281095,11.70126 z"
+           sodipodi:nodetypes="sssss" />
+        <path
+           id="path3683"
+           style="fill:#3a4466;stroke-width:0.586483;stroke-linecap:round;stroke-linejoin:round"
+           d="m 140.03863,78.014747 c -2.68395,-0.06069 -4.70455,1.559481 -1.62436,6.232347 1.80351,-10.433662 5.83884,-3.823968 6.44687,-0.0705 0.15692,-2.953988 -1.61237,-6.245927 -4.82251,-6.161845 z"
+           sodipodi:nodetypes="ccccc" />
+        <g
+           id="g3691">
+          <ellipse
+             style="fill:#ead4aa;fill-opacity:1;stroke-width:0.586484;stroke-linecap:round;stroke-linejoin:round"
+             id="ellipse3685"
+             cx="-133.83727"
+             cy="87.451653"
+             rx="4.9329901"
+             ry="9.0154648"
+             transform="scale(-1,1)" />
+          <ellipse
+             style="fill:#000000;fill-opacity:1;stroke-width:0.193228;stroke-linecap:round;stroke-linejoin:round"
+             id="ellipse3687"
+             cx="-123.15438"
+             cy="101.97915"
+             rx="1.6252613"
+             ry="2.970305"
+             transform="matrix(-0.99431128,0.10651328,0.10651328,0.99431128,0,0)" />
+          <ellipse
+             style="fill:#ead4aa;fill-opacity:1;stroke-width:0.0678309;stroke-linecap:round;stroke-linejoin:round"
+             id="ellipse3689"
+             cx="-124.06655"
+             cy="102.88522"
+             rx="0.53271604"
+             ry="1.1167235"
+             transform="matrix(-0.99248786,0.12234319,0.09269036,0.99569498,0,0)" />
+        </g>
+        <path
+           id="path3693"
+           style="fill:#3a4466;stroke-width:0.586483;stroke-linecap:round;stroke-linejoin:round"
+           d="m 133.96593,78.190487 c -2.68395,-0.0607 -4.57018,4.02637 -5.06806,6.559409 2.1428,-6.153909 9.5164,-0.502802 9.5164,-0.502802 0.0751,-2.673355 -1.2382,-6.140689 -4.44834,-6.056607 z"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <path
+         sodipodi:type="star"
+         style="fill:#be4a2f;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+         id="path3697"
+         inkscape:flatsided="false"
+         sodipodi:sides="10"
+         sodipodi:cx="218.84955"
+         sodipodi:cy="312.18765"
+         sodipodi:r1="169.92426"
+         sodipodi:r2="67.969704"
+         sodipodi:arg1="0.71471963"
+         sodipodi:arg2="1.0288789"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 347.18943,423.55698 -93.28249,-53.13824 3.31051,107.30488 -44.23326,-97.81981 -60.39396,88.75734 21.71159,-105.13754 -101.029998,36.30751 79.363338,-72.29631 -103.076006,-30.01054 106.700996,-11.84034 -65.750488,-84.8656 93.282498,53.13823 -3.31052,-107.30487 44.23326,97.8198 60.39396,-88.75734 -21.71158,105.13755 101.02999,-36.30752 -79.36333,72.29631 103.076,30.01055 -106.70099,11.84034 z"
+         transform="matrix(0.1764291,0.21743265,-0.21743265,0.1764291,167.29277,3.591203)"
+         inkscape:transform-center-y="-2.0489977e-06"
+         inkscape:transform-center-x="8.337692e-06"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#feae34;fill-opacity:1;stroke-width:0.449899;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3699"
+         cx="-147.04881"
+         cy="77.120651"
+         rx="7.0783286"
+         ry="4.4935455"
+         transform="rotate(-113.76418)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#feae34;fill-opacity:1;stroke-width:1.12002;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3701"
+         cx="-116.07596"
+         cy="136.03665"
+         rx="17.621572"
+         ry="11.186728"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#ead4aa;fill-opacity:1;stroke-width:0.620673;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3703"
+         cx="131.73424"
+         cy="113.33225"
+         rx="5.2205634"
+         ry="9.5410299"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke-width:0.185574;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3705"
+         cx="142.73474"
+         cy="98.801086"
+         rx="1.5608913"
+         ry="2.8526633"
+         transform="rotate(6.300315)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#feae34;fill-opacity:1;stroke-width:0.449899;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3707"
+         cx="-39.312672"
+         cy="174.28461"
+         rx="7.0783286"
+         ry="4.4935455"
+         transform="rotate(-67.308519)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#ead4aa;fill-opacity:1;stroke-width:0.620673;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3709"
+         cx="138.43089"
+         cy="113.62923"
+         rx="5.2205634"
+         ry="9.5410299"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke-width:0.204492;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3711"
+         cx="150.38857"
+         cy="99.052475"
+         rx="1.7200075"
+         ry="3.1434617"
+         transform="rotate(6.1143603)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#ead4aa;fill-opacity:1;stroke-width:0.201987;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3713"
+         cx="118.99394"
+         cy="115.14434"
+         rx="1.3025881"
+         ry="4.0496664"
+         transform="matrix(0.98332099,0.18187859,-0.06192162,0.99808102,0,0)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#ead4aa;fill-opacity:1;stroke-width:0.201987;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3715"
+         cx="131.02214"
+         cy="113.96946"
+         rx="1.3025881"
+         ry="4.0496664"
+         transform="matrix(0.98332099,0.18187859,-0.06192162,0.99808102,0,0)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <path
+         id="path3717"
+         style="fill:#feae34;fill-opacity:1;stroke-width:1.12002;stroke-linecap:round;stroke-linejoin:round"
+         d="m 143.30432,124.54031 -7.52684,2.12357 6.44563,22.84795 a 54.547678,54.547678 0 0 0 8.93947,2.88212 z"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#feae34;fill-opacity:1;stroke-width:1.12002;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3719"
+         cx="121.18702"
+         cy="127.70818"
+         rx="17.621572"
+         ry="11.186728"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#3e2731;fill-opacity:1;stroke-width:0.370848;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3721"
+         cx="111.11402"
+         cy="121.52084"
+         rx="7.4000707"
+         ry="2.9204292"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#ead4aa;fill-opacity:1;stroke-width:0.0717852;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3723"
+         cx="149.64433"
+         cy="95.533516"
+         rx="0.56377125"
+         ry="1.181824"
+         transform="matrix(0.99248786,0.12234319,-0.09269036,0.99569498,0,0)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#ead4aa;fill-opacity:1;stroke-width:0.0717852;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3725"
+         cx="141.52219"
+         cy="95.793304"
+         rx="0.56377125"
+         ry="1.181824"
+         transform="matrix(0.99248786,0.12234319,-0.09269036,0.99569498,0,0)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#b86f50;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3727"
+         cx="231.11354"
+         cy="148.76198"
+         rx="0.39687502"
+         ry="0.066145837"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#5a6988;fill-opacity:1;stroke:none;stroke-width:0.701303;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3729"
+         cx="186.67245"
+         cy="212.22914"
+         rx="6.5747366"
+         ry="3.6380208"
+         transform="rotate(-16.084786)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#181425;fill-opacity:1;stroke:none;stroke-width:0.254103;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3731"
+         cx="184.27077"
+         cy="212.3627"
+         rx="2.3822203"
+         ry="1.3181618"
+         transform="rotate(-16.084786)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+      <ellipse
+         style="fill:#181425;fill-opacity:1;stroke:none;stroke-width:0.254103;stroke-linecap:round;stroke-linejoin:round"
+         id="ellipse3733"
+         cx="189.99553"
+         cy="212.08588"
+         rx="2.3822203"
+         ry="1.3181618"
+         transform="rotate(-16.084786)"
+         inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+         inkscape:export-xdpi="96.019302"
+         inkscape:export-ydpi="96.019302" />
+    </g>
+    <path
+       id="path3737"
+       style="opacity:1;fill:#124e89;fill-opacity:1;stroke:#a22633;stroke-width:2.07928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -218.92422,331.23803 v 4.31004 a 9.3161876,9.2893337 0 0 0 -7.31118,9.06923 9.3161876,9.2893337 0 0 0 7.31118,9.06964 v 4.31004 h 122.924017 v -4.10902 a 9.3161876,9.2893337 0 0 0 8.812582,-9.27066 9.3161876,9.2893337 0 0 0 -8.812582,-9.27553 v -4.10374 z"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <path
+       id="path3739"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ead4aa;stroke-width:1.9058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -217.49655,333.20968 v 3.71041 a 9.0913897,7.9969847 0 0 0 -7.13477,7.80751 9.0913897,7.9969847 0 0 0 7.13477,7.80785 v 3.71042 h 119.957881 v -3.53736 a 9.0913897,7.9969847 0 0 0 8.599943,-7.98091 9.0913897,7.9969847 0 0 0 -8.599943,-7.98511 v -3.53281 z"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <g
+       id="g3749"
+       transform="matrix(0.78586945,0,0,0.78586945,-296.7194,330.20869)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\itch-cover.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#ead4aa;fill-opacity:1;stroke-width:0.264583"
+         x="113.3273"
+         y="26.681944"
+         id="text3743"><tspan
+           sodipodi:role="line"
+           id="tspan3741"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Comico;-inkscape-font-specification:Comico;fill:#ead4aa;fill-opacity:1;stroke-width:0.264583"
+           x="113.3273"
+           y="26.681944">Circus</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#ead4aa;fill-opacity:1;stroke-width:0.264583"
+         x="177.68205"
+         y="26.27578"
+         id="text3747"><tspan
+           sodipodi:role="line"
+           id="tspan3745"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Comico;-inkscape-font-specification:Comico;fill:#ead4aa;fill-opacity:1;stroke-width:0.264583"
            x="177.68205"
            y="26.27578">escape</tspan></text>
