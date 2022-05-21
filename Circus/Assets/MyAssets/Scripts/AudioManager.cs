@@ -24,8 +24,6 @@ public class AudioManager : MonoBehaviour
         {
             Debug.LogError("Sound " + soundName + " not found!");
         }
-        Debug.Log(sound.loop);
-
         AudioSource audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.loop = sound.loop;
         audioSource.volume = sound.defualtVolume;
