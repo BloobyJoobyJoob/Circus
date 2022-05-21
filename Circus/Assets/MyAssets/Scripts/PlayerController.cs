@@ -13,6 +13,8 @@ public class PlayerController : MonoBehaviour
 
     public float jumpForce;
     public float runForce;
+
+    private float yVel;
     private bool onGround;
 
     private InputAction moveAction;
@@ -47,28 +49,29 @@ public class PlayerController : MonoBehaviour
         }
 
         onGround = Physics2D.OverlapCircle(ground.position, 0f);
-        float vel = rb.velocity.y;
-        if (Mathf.Abs(vel) <= 0.01)
+        yVel = rb.velocity.y;
+        if (Mathf.Abs(yVel) <= 0.01)
         {
             if (onGround)
             {
-                vel = 0;
+                yVel = 0;
             }
             else
             {
-                vel = 1;
+                yVel = 1;
             }
         }
-        animator.SetFloat("MovementY", vel);
+        animator.SetFloat("MovementY", yVel);
     }
 
     void FixedUpdate()
     {
-        movement = moveAction.ReadValue<Vector2>();
-        ability = abilityAction.IsPressed();
         if (onGround)
         {
-            if (movement.y == 1)
+            ability = abilityAction.IsPressed();
+            movement = moveAction.ReadValue<Vector2>();
+
+            if (movement.y >= 0.5 && movement.x != 0)
             {
                 rb.AddForce(jumpForce * transform.up);
             }
