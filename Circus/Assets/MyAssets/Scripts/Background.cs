@@ -7,10 +7,13 @@ public class Background : MonoBehaviour
     public Sprite[] backgroundSprites;
     public SpriteRenderer spriteRenderer;
     public Transform player;
-    public Vector3 offset;
+
+    public float moveSpeed;
 
     public int blurRadius;
     public int blurIterations;
+
+    private Vector3 startPosition;
 
     private void Awake()
     {
@@ -24,5 +27,11 @@ public class Background : MonoBehaviour
             backgroundSprites[i] = sprite;
         }
         spriteRenderer.sprite = backgroundSprites[1];
+
+        startPosition = transform.position;
+    }
+    private void Update()
+    {
+        transform.position = (player.position * moveSpeed) + startPosition;
     }
 }
