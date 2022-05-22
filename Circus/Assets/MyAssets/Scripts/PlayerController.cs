@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
@@ -11,8 +12,11 @@ public class PlayerController : MonoBehaviour
     public RuntimeAnimatorController angryElephantController;
     public RuntimeAnimatorController lionController;
     public Rigidbody2D rb;
+    public GameObject[] bustables;
+    public ParticleSystem ps;
 
     public Transform ground;
+    public Transform angry;
 
     public float jumpForce;
     public float runForce;
@@ -63,6 +67,13 @@ public class PlayerController : MonoBehaviour
                 if (ability)
                 {
                     animator.runtimeAnimatorController = angryElephantController;
+                    Collider2D[] colliders = Physics2D.OverlapCircleAll(angry.position, 0);
+                    foreach (Collider2D col in colliders)
+                    {
+                       GameObject bust = Array.Find(bustables, b => b = col.gameObject);
+                       bust.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+                    }
+
                 }
                 else
                 {
@@ -75,7 +86,15 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        onGround = Physics2D.OverlapCircle(ground.position, 0f);
+        Collider2D[] cols = Physics2D.OverlapCircleAll(ground.position, 0f);
+        onGround = false;
+        foreach (Collider2D col in cols)
+        {
+            if (!col.isTrigger)
+            {
+                onGround = true;
+            }
+        }
         yVel = rb.velocity.y;
         if (Mathf.Abs(yVel) <= 0.01)
         {
@@ -96,6 +115,8 @@ public class PlayerController : MonoBehaviour
             {
                 morph = 1;
                 animator.runtimeAnimatorController = elephantController;
+                AudioManager.instance.PlaySound("Morph", true, true);
+                ps.Play();
             }
             else
             {

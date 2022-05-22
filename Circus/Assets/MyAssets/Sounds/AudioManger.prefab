@@ -50,3 +50,13 @@ MonoBehaviour:
     defualtVolume: 1
     defualtPitch: 1
     loop: 0
+  - audioClip: {fileID: 8300000, guid: a2c987def7f46a54d814bf46962099ac, type: 3}
+    name: theme
+    defualtVolume: 0.1
+    defualtPitch: 1
+    loop: 1
+  - audioClip: {fileID: 8300000, guid: 0c6e86390bec4d147bdb8d5a2560da79, type: 3}
+    name: Morph
+    defualtVolume: 1
+    defualtPitch: 0.8
+    loop: 0

@@ -15,7 +15,10 @@ public class AudioManager : MonoBehaviour
             instance = this;
             DontDestroyOnLoad(this);
         }
-
+        else
+        {
+            Destroy(gameObject);
+        }
         PlaySound("theme", true, false);
     }
 
