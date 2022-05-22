@@ -30,8 +30,8 @@
      units="px"
      width="1366px"
      inkscape:zoom="1.4142136"
-     inkscape:cx="304.05592"
-     inkscape:cy="449.71991"
+     inkscape:cx="758.72558"
+     inkscape:cy="461.74073"
      inkscape:window-width="3840"
      inkscape:window-height="2066"
      inkscape:window-x="-11"
@@ -22418,6 +22418,19 @@
      id="layer6"
      inkscape:label="Cage 1">
     <rect
+       style="opacity:1;fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177750"
+       width="45.883499"
+       height="3.6482291"
+       x="137.53441"
+       y="247.63519"
+       inkscape:transform-center-x="19.860166"
+       inkscape:transform-center-y="7.7792499"
+       transform="rotate(-22.01855)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
        style="fill:#a22633;fill-opacity:1;stroke:#181425;stroke-width:0.793752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect146696"
        width="75.406258"
@@ -22439,7 +22452,7 @@
        style="display:inline;fill:#000000;fill-opacity:0" />
     <g
        id="g4089"
-       transform="translate(86.120522,-482.56963)"
+       transform="translate(80.815945,-629.1919)"
        style="display:inline">
       <g
          id="g3983"
@@ -22893,7 +22906,7 @@
     <g
        id="g5009"
        style="display:inline"
-       transform="translate(195.80457,-475.67774)">
+       transform="translate(190.49999,-622.30001)">
       <g
          id="g4871"
          style="fill:#181425;fill-opacity:1;stroke:#181425;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -23532,10 +23545,10 @@
        id="path97894"
        style="fill:#a22633;fill-opacity:1;stroke:#181425;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        d="M 193.46094 561.46094 L 193.46094 622.53906 L 289.55469 622.53906 A 30.500004 30.499993 0 0 0 289.5 624 A 30.500004 30.499993 0 0 0 320 654.5 A 30.500004 30.499993 0 0 0 350.5 624 A 30.500004 30.499993 0 0 0 350.46289 622.53906 L 609.55469 622.53906 A 30.499979 30.5 0 0 0 609.5 624 A 30.499979 30.5 0 0 0 640 654.5 A 30.499979 30.5 0 0 0 670.5 624 A 30.499979 30.5 0 0 0 670.46289 622.53906 L 766.53906 622.53906 L 766.53906 561.46094 L 193.46094 561.46094 z "
-       transform="scale(0.26458334)"
        inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
        inkscape:export-xdpi="96.019302"
-       inkscape:export-ydpi="96.019302" />
+       inkscape:export-ydpi="96.019302"
+       transform="scale(0.26458334)" />
     <path
        id="rect123170"
        style="fill:#a22633;stroke:#181425;stroke-width:0.793754;stroke-linecap:round;stroke-linejoin:round"
@@ -25864,6 +25877,1011 @@ XEccTZ0AAAAASUVORK5CYII=
        inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
        inkscape:export-xdpi="96.019302"
        inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#124e89;fill-opacity:1;stroke:#181425;stroke-width:0.793752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect177268"
+       width="75.406258"
+       height="3.4395814"
+       x="76.596878"
+       y="-257.83646"
+       transform="rotate(90)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="display:inline;opacity:0.533997;fill:#181425;fill-opacity:1;stroke-width:0.691632;stroke-linecap:round;stroke-linejoin:round"
+       id="rect177270"
+       width="152.39999"
+       height="21.166672"
+       x="253.99998"
+       y="160.86667"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <path
+       id="path177272"
+       style="fill:#124e89;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 254.38654,148.55321 v 16.16026 h 25.42481 a 8.0697929,8.06979 0 0 0 -0.0145,0.38654 8.0697929,8.06979 0 0 0 8.06979,8.06979 8.0697929,8.06979 0 0 0 8.06979,-8.06979 8.0697929,8.06979 0 0 0 -0.01,-0.38654 h 68.55137 a 8.0697863,8.0697919 0 0 0 -0.0145,0.38654 8.0697863,8.0697919 0 0 0 8.0698,8.06979 8.0697863,8.0697919 0 0 0 8.06979,-8.06979 8.0697863,8.0697919 0 0 0 -0.01,-0.38654 h 25.42015 v -16.16026 z"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <path
+       id="path177274"
+       style="fill:#124e89;stroke:#181425;stroke-width:0.793754;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="m 398.33022,72.231255 7.67291,-8.334375 v 16.13958 h -7.67291 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <path
+       id="path177276"
+       style="fill:#124e89;stroke:#181425;stroke-width:0.793754;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="m 254.39688,63.89688 7.67291,8.863542 v 7.276038 h -7.67291 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#124e89;fill-opacity:1;stroke:#181425;stroke-width:0.793752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect177278"
+       width="151.60626"
+       height="7.6729164"
+       x="254.39687"
+       y="72.363541"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <g
+       id="g177288"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302"
+       transform="translate(203.2)">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177280"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177282"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177284"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177286"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177298"
+       transform="translate(194.73333)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177290"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177292"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177294"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177296"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177308"
+       transform="translate(186.26666)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177300"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177302"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177304"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177306"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177318"
+       transform="translate(177.8)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177310"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177312"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177314"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177316"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177328"
+       transform="translate(169.33333)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177320"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177322"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177324"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177326"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177338"
+       transform="translate(160.86666)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177330"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177332"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177334"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177336"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177348"
+       transform="translate(152.4)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177340"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177342"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177344"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177346"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177358"
+       transform="translate(143.93333)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177350"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177352"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177354"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177356"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177368"
+       transform="translate(135.46666)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177360"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177362"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177364"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177366"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177378"
+       transform="translate(126.99999)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177370"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177372"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177374"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177376"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177388"
+       transform="translate(118.53333)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177380"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177382"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177384"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177386"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177398"
+       transform="translate(110.06666)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177390"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177392"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177394"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177396"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177408"
+       transform="translate(101.6)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177400"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177402"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177404"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177406"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177418"
+       transform="translate(93.133326)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177410"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177412"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177414"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177416"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177428"
+       transform="translate(84.666666)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177420"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177422"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177424"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177426"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177438"
+       transform="translate(76.199996)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177430"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177432"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177434"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177436"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <g
+       id="g177448"
+       transform="translate(67.733326)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <rect
+         style="fill:#5a6988;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177440"
+         width="4.2333336"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177442"
+         width="0.79374999"
+         height="67.733337"
+         x="198.17293"
+         y="80.433334" />
+      <rect
+         style="fill:#181425;fill-opacity:1;stroke-width:0.572841;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177444"
+         width="0.79374999"
+         height="67.733337"
+         x="194.73334"
+         y="80.433334" />
+      <rect
+         style="fill:#c0cbdc;fill-opacity:1;stroke-width:0.460575;stroke-linecap:round;stroke-linejoin:round"
+         id="rect177446"
+         width="0.51311696"
+         height="67.733337"
+         x="197.73732"
+         y="80.433334" />
+    </g>
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177450"
+       width="14.4526"
+       height="3.4395888"
+       x="357.68387"
+       y="163.38022"
+       inkscape:transform-center-x="7.5770913"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177452"
+       width="14.4526"
+       height="3.4395888"
+       x="150.29662"
+       y="-374.20703"
+       inkscape:transform-center-x="7.2620294e-06"
+       transform="rotate(90)"
+       inkscape:transform-center-y="-7.5770976"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177454"
+       width="14.4526"
+       height="3.4395888"
+       x="365.32822"
+       y="-148.36472"
+       inkscape:transform-center-x="5.3578154"
+       transform="rotate(45)"
+       inkscape:transform-center-y="-5.3578157"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177456"
+       width="14.4526"
+       height="3.4395888"
+       x="-387.29065"
+       y="-166.81979"
+       inkscape:transform-center-x="-7.5770903"
+       transform="scale(-1)"
+       inkscape:transform-center-y="-1.3584843e-05"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177458"
+       width="14.4526"
+       height="3.4395888"
+       x="-161.4483"
+       y="-381.85138"
+       inkscape:transform-center-x="-5.3578037"
+       transform="rotate(135)"
+       inkscape:transform-center-y="-5.3578199"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177460"
+       width="14.4526"
+       height="3.4395888"
+       x="-179.90341"
+       y="370.76746"
+       inkscape:transform-center-x="-6.3278297e-06"
+       transform="rotate(-90)"
+       inkscape:transform-center-y="7.5770993"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177462"
+       width="14.4526"
+       height="3.4395888"
+       x="-394.935"
+       y="144.92513"
+       inkscape:transform-center-x="-5.3578196"
+       transform="rotate(-135)"
+       inkscape:transform-center-y="5.35782"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177464"
+       width="14.4526"
+       height="3.4395888"
+       x="131.84152"
+       y="378.41183"
+       inkscape:transform-center-x="5.3577996"
+       transform="rotate(-45)"
+       inkscape:transform-center-y="5.3578243"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <path
+       id="path177466"
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.774097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 372.53334,148.55373 A 16.546282,16.546286 0 0 0 355.98706,165.1 16.546282,16.546286 0 0 0 372.53334,181.64628 16.546282,16.546286 0 0 0 389.07962,165.1 16.546282,16.546286 0 0 0 372.53334,148.55373 Z m 0,4.1367 A 12.409711,12.409712 0 0 1 384.94292,165.1 12.409711,12.409712 0 0 1 372.53334,177.50958 12.409711,12.409712 0 0 1 360.12376,165.1 12.409711,12.409712 0 0 1 372.53334,152.69043 Z"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <ellipse
+       style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.793751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse177468"
+       cx="372.53333"
+       cy="165.10001"
+       rx="3.8364584"
+       ry="3.8364596"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177470"
+       width="14.4526"
+       height="3.4395888"
+       x="273.01718"
+       y="163.3802"
+       inkscape:transform-center-x="7.5770913"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177472"
+       width="14.4526"
+       height="3.4395888"
+       x="150.2966"
+       y="-289.54037"
+       inkscape:transform-center-x="7.2620294e-06"
+       transform="rotate(90)"
+       inkscape:transform-center-y="-7.5770976"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177474"
+       width="14.4526"
+       height="3.4395888"
+       x="305.45984"
+       y="-88.496346"
+       inkscape:transform-center-x="5.3578154"
+       transform="rotate(45)"
+       inkscape:transform-center-y="-5.3578157"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177476"
+       width="14.4526"
+       height="3.4395888"
+       x="-302.62399"
+       y="-166.81978"
+       inkscape:transform-center-x="-7.5770903"
+       transform="scale(-1)"
+       inkscape:transform-center-y="-1.3584843e-05"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177478"
+       width="14.4526"
+       height="3.4395888"
+       x="-101.57994"
+       y="-321.983"
+       inkscape:transform-center-x="-5.3578037"
+       transform="rotate(135)"
+       inkscape:transform-center-y="-5.3578199"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177480"
+       width="14.4526"
+       height="3.4395888"
+       x="-179.9034"
+       y="286.1008"
+       inkscape:transform-center-x="-6.3278297e-06"
+       transform="rotate(-90)"
+       inkscape:transform-center-y="7.5770993"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177482"
+       width="14.4526"
+       height="3.4395888"
+       x="-335.06662"
+       y="85.056755"
+       inkscape:transform-center-x="-5.3578196"
+       transform="rotate(-135)"
+       inkscape:transform-center-y="5.35782"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177484"
+       width="14.4526"
+       height="3.4395888"
+       x="71.97316"
+       y="318.54346"
+       inkscape:transform-center-x="5.3577996"
+       transform="rotate(-45)"
+       inkscape:transform-center-y="5.3578243"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <path
+       id="path177486"
+       style="fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.774097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 287.86667,148.55372 a 16.546282,16.546286 0 0 0 -16.54627,16.54627 16.546282,16.546286 0 0 0 16.54627,16.54628 16.546282,16.546286 0 0 0 16.54628,-16.54628 16.546282,16.546286 0 0 0 -16.54628,-16.54627 z m 0,4.1367 a 12.409711,12.409712 0 0 1 12.40958,12.40957 12.409711,12.409712 0 0 1 -12.40958,12.40958 12.409711,12.409712 0 0 1 -12.40957,-12.40958 12.409711,12.409712 0 0 1 12.40957,-12.40957 z"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <ellipse
+       style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.793751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse177488"
+       cx="287.86667"
+       cy="165.09999"
+       rx="3.8364584"
+       ry="3.8364596"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <g
+       id="g177496"
+       transform="translate(205.45661,1.5875027)"
+       style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="#ffffff"
+         d="m 122.22763,69.574467 c 0.11366,0.675573 -0.61642,0.50742 -0.42144,1.264329 -0.0157,0.624442 0.76141,0.456146 0.84289,0.983371 -0.0475,0.74862 -0.38675,1.205324 -1.12385,1.264329 -0.40683,-0.763376 -0.19218,-1.380225 -0.84289,-1.685772 -1.7598,-0.82631 -2.64118,2.805825 -0.28096,3.09058 2.16004,0.260591 2.66183,-2.070972 3.65251,-3.09058 1.93835,5.489011 -7.11354,6.458614 -6.46213,0.983365 -2.83294,-2.618426 -9.76076,-3.795376 -14.0481,-1.685772 3.43055,-2.723506 11.1681,-2.101597 14.32907,0.421443 0.70507,-0.559257 1.20728,-1.321364 2.24769,-1.545293 -4.7994,-3.889216 -14.56479,-1.874297 -18.82445,1.12385 4.49272,-3.984464 16.10263,-6.300432 20.93166,-1.12385 z"
+         id="path177490"
+         style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="#ffffff"
+         d="m 128.97073,69.574467 c 0.85202,0.04933 2.21665,0.267058 2.9501,0.842886 3.3242,-2.094992 10.08387,-2.410091 13.76714,-0.421443 -3.94176,-1.152362 -10.59045,-0.773766 -13.3457,1.685772 -0.18291,1.340329 -0.28658,2.87846 -1.26433,3.652508 -2.49803,1.977407 -6.98991,-0.472579 -5.75973,-3.933466 1.21713,0.386039 0.93126,1.899581 1.82627,2.528658 1.20293,0.845551 3.57481,0.3925 3.6525,-1.264329 0.11168,-2.381154 -3.15043,-1.671867 -2.38818,0.561922 -1.05937,0.0292 -1.33218,-0.728254 -1.68577,-1.404808 0.45347,-0.329992 1.0317,-1.781439 0,-1.966736 3.85719,-6.034923 16.9031,-3.565548 21.07215,0.421443 -2.94434,-1.501601 -8.02849,-3.761236 -13.20522,-3.231064 -2.27635,0.233199 -4.15163,1.261663 -5.61923,2.528657 z"
+         id="path177492"
+         style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 124.61581,63.674267 c 0.54409,1.047988 1.1792,2.005085 2.10722,2.669141 -0.45221,1.030004 -1.92291,2.437201 -1.12385,3.792987 0.75101,-0.476375 0.98856,-1.331202 1.40481,-1.966736 0.4036,-0.616291 0.78501,-1.357049 1.40481,-1.826251 6.89776,-5.220838 17.55156,1.334988 21.91504,4.776352 -1.34356,-2.275229 -0.17926,-5.129382 2.24769,-4.916836 1.17147,0.102553 2.00186,0.994467 1.96674,2.669142 -3.60236,0.113363 -1.38093,3.504717 0.28096,4.776352 1.45707,1.114998 3.31212,1.613987 4.77635,1.685772 -0.0626,-0.874919 0.42285,-1.917283 1.68578,-1.404808 0.8964,1.684508 -0.72629,2.767193 -2.2477,2.9501 -4.54976,0.546891 -10.18052,-4.990872 -14.32906,-2.9501 -0.27717,0.798349 0.93167,0.839652 0.42144,1.404808 -1.25196,1.370811 -3.88359,0.412735 -4.21443,-0.983366 -0.59999,-2.531047 2.25795,-3.457096 4.63587,-3.231064 -6.84817,-2.877615 -10.63918,5.388008 -16.29579,5.619238 -2.10511,0.08598 -3.45711,-0.707037 -4.35492,-2.107215 -1.20139,1.314063 -2.61828,2.376938 -4.91683,2.107215 -5.29923,-0.621766 -8.18639,-7.287308 -15.31243,-5.759717 1.21643,0.436049 2.35264,0.01811 3.23106,0.561922 2.43103,1.504972 0.28729,6.024386 -3.09058,4.21443 0.65015,-0.497725 1.99104,-2.163687 -0.14048,-2.388179 -1.47772,-0.15551 -3.80114,1.1091 -5.759721,1.826256 -2.599179,0.951758 -5.191052,2.249378 -8.709818,1.685772 -0.91313,-0.14624 -2.211175,-0.705778 -2.247699,-1.545292 -0.0378,-0.867331 0.716875,-1.221906 1.264329,-1.12385 0.925911,0.165912 0.281808,0.595361 0.842886,1.404813 1.346653,-0.189794 3.198613,-0.570916 4.635873,-1.685771 1.697431,-1.316591 3.822348,-4.97359 0,-4.916837 0.751291,-5.034558 7.68838,-1.303943 4.214429,2.247694 3.730901,-2.588363 7.915261,-6.6654 14.469541,-6.602605 2.9737,0.02852 5.95415,0.960186 7.86694,2.52866 1.04518,0.857073 1.45075,2.108617 2.52866,2.950101 1.03534,-1.02959 -0.72278,-2.678694 -1.12385,-3.652508 0.95077,-0.641294 1.70937,-1.474769 1.96673,-2.80962 z m 9.97415,3.371543 c 5.17673,-0.530172 10.26088,1.729463 13.20522,3.231064 -4.16905,-3.986991 -17.21496,-6.456366 -21.07215,-0.421443 1.0317,0.185297 0.45347,1.636744 0,1.966736 0.35359,0.676554 0.6264,1.434026 1.68577,1.404808 -0.76225,-2.233789 2.49986,-2.943076 2.38818,-0.561922 -0.0777,1.656829 -2.44971,2.10988 -3.6525,1.264329 -0.89501,-0.629077 -0.60914,-2.142619 -1.82627,-2.528658 -1.23018,3.460887 3.2617,5.910873 5.75973,3.933466 0.97775,-0.774048 1.08142,-2.312179 1.26433,-3.652508 2.75525,-2.459538 9.40394,-2.838134 13.3457,-1.685772 -3.68327,-1.988648 -10.44294,-1.673549 -13.76714,0.421443 -0.73345,-0.575828 -2.09808,-0.793576 -2.9501,-0.842886 1.4676,-1.266994 3.34288,-2.295458 5.61923,-2.528657 z m -33.29399,3.652507 c 4.25966,-2.998147 14.02505,-5.013066 18.82445,-1.12385 -1.04041,0.223929 -1.54262,0.986036 -2.24769,1.545293 -3.16097,-2.52304 -10.89852,-3.144949 -14.32907,-0.421443 4.28734,-2.109604 11.21516,-0.932654 14.0481,1.685772 -0.65141,5.475249 8.40048,4.505646 6.46213,-0.983365 -0.99068,1.019608 -1.49247,3.351171 -3.65251,3.09058 -2.36022,-0.284755 -1.47884,-3.91689 0.28096,-3.09058 0.65071,0.305547 0.43606,0.922396 0.84289,1.685772 0.7371,-0.05901 1.07636,-0.515709 1.12385,-1.264329 -0.0815,-0.527225 -0.85862,-0.358929 -0.84289,-0.983371 -0.19498,-0.756909 0.5351,-0.588756 0.42144,-1.264329 -4.82903,-5.176582 -16.43894,-2.860614 -20.93166,1.12385 z"
+         id="path177494"
+         style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g177504"
+       transform="translate(205.45661,77.853649)"
+       style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="#ffffff"
+         d="m 122.22763,69.574467 c 0.11366,0.675573 -0.61642,0.50742 -0.42144,1.264329 -0.0157,0.624442 0.76141,0.456146 0.84289,0.983371 -0.0475,0.74862 -0.38675,1.205324 -1.12385,1.264329 -0.40683,-0.763376 -0.19218,-1.380225 -0.84289,-1.685772 -1.7598,-0.82631 -2.64118,2.805825 -0.28096,3.09058 2.16004,0.260591 2.66183,-2.070972 3.65251,-3.09058 1.93835,5.489011 -7.11354,6.458614 -6.46213,0.983365 -2.83294,-2.618426 -9.76076,-3.795376 -14.0481,-1.685772 3.43055,-2.723506 11.1681,-2.101597 14.32907,0.421443 0.70507,-0.559257 1.20728,-1.321364 2.24769,-1.545293 -4.7994,-3.889216 -14.56479,-1.874297 -18.82445,1.12385 4.49272,-3.984464 16.10263,-6.300432 20.93166,-1.12385 z"
+         id="path177498"
+         style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         fill="#ffffff"
+         d="m 128.97073,69.574467 c 0.85202,0.04933 2.21665,0.267058 2.9501,0.842886 3.3242,-2.094992 10.08387,-2.410091 13.76714,-0.421443 -3.94176,-1.152362 -10.59045,-0.773766 -13.3457,1.685772 -0.18291,1.340329 -0.28658,2.87846 -1.26433,3.652508 -2.49803,1.977407 -6.98991,-0.472579 -5.75973,-3.933466 1.21713,0.386039 0.93126,1.899581 1.82627,2.528658 1.20293,0.845551 3.57481,0.3925 3.6525,-1.264329 0.11168,-2.381154 -3.15043,-1.671867 -2.38818,0.561922 -1.05937,0.0292 -1.33218,-0.728254 -1.68577,-1.404808 0.45347,-0.329992 1.0317,-1.781439 0,-1.966736 3.85719,-6.034923 16.9031,-3.565548 21.07215,0.421443 -2.94434,-1.501601 -8.02849,-3.761236 -13.20522,-3.231064 -2.27635,0.233199 -4.15163,1.261663 -5.61923,2.528657 z"
+         id="path177500"
+         style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 124.61581,63.674267 c 0.54409,1.047988 1.1792,2.005085 2.10722,2.669141 -0.45221,1.030004 -1.92291,2.437201 -1.12385,3.792987 0.75101,-0.476375 0.98856,-1.331202 1.40481,-1.966736 0.4036,-0.616291 0.78501,-1.357049 1.40481,-1.826251 6.89776,-5.220838 17.55156,1.334988 21.91504,4.776352 -1.34356,-2.275229 -0.17926,-5.129382 2.24769,-4.916836 1.17147,0.102553 2.00186,0.994467 1.96674,2.669142 -3.60236,0.113363 -1.38093,3.504717 0.28096,4.776352 1.45707,1.114998 3.31212,1.613987 4.77635,1.685772 -0.0626,-0.874919 0.42285,-1.917283 1.68578,-1.404808 0.8964,1.684508 -0.72629,2.767193 -2.2477,2.9501 -4.54976,0.546891 -10.18052,-4.990872 -14.32906,-2.9501 -0.27717,0.798349 0.93167,0.839652 0.42144,1.404808 -1.25196,1.370811 -3.88359,0.412735 -4.21443,-0.983366 -0.59999,-2.531047 2.25795,-3.457096 4.63587,-3.231064 -6.84817,-2.877615 -10.63918,5.388008 -16.29579,5.619238 -2.10511,0.08598 -3.45711,-0.707037 -4.35492,-2.107215 -1.20139,1.314063 -2.61828,2.376938 -4.91683,2.107215 -5.29923,-0.621766 -8.18639,-7.287308 -15.31243,-5.759717 1.21643,0.436049 2.35264,0.01811 3.23106,0.561922 2.43103,1.504972 0.28729,6.024386 -3.09058,4.21443 0.65015,-0.497725 1.99104,-2.163687 -0.14048,-2.388179 -1.47772,-0.15551 -3.80114,1.1091 -5.759721,1.826256 -2.599179,0.951758 -5.191052,2.249378 -8.709818,1.685772 -0.91313,-0.14624 -2.211175,-0.705778 -2.247699,-1.545292 -0.0378,-0.867331 0.716875,-1.221906 1.264329,-1.12385 0.925911,0.165912 0.281808,0.595361 0.842886,1.404813 1.346653,-0.189794 3.198613,-0.570916 4.635873,-1.685771 1.697431,-1.316591 3.822348,-4.97359 0,-4.916837 0.751291,-5.034558 7.68838,-1.303943 4.214429,2.247694 3.730901,-2.588363 7.915261,-6.6654 14.469541,-6.602605 2.9737,0.02852 5.95415,0.960186 7.86694,2.52866 1.04518,0.857073 1.45075,2.108617 2.52866,2.950101 1.03534,-1.02959 -0.72278,-2.678694 -1.12385,-3.652508 0.95077,-0.641294 1.70937,-1.474769 1.96673,-2.80962 z m 9.97415,3.371543 c 5.17673,-0.530172 10.26088,1.729463 13.20522,3.231064 -4.16905,-3.986991 -17.21496,-6.456366 -21.07215,-0.421443 1.0317,0.185297 0.45347,1.636744 0,1.966736 0.35359,0.676554 0.6264,1.434026 1.68577,1.404808 -0.76225,-2.233789 2.49986,-2.943076 2.38818,-0.561922 -0.0777,1.656829 -2.44971,2.10988 -3.6525,1.264329 -0.89501,-0.629077 -0.60914,-2.142619 -1.82627,-2.528658 -1.23018,3.460887 3.2617,5.910873 5.75973,3.933466 0.97775,-0.774048 1.08142,-2.312179 1.26433,-3.652508 2.75525,-2.459538 9.40394,-2.838134 13.3457,-1.685772 -3.68327,-1.988648 -10.44294,-1.673549 -13.76714,0.421443 -0.73345,-0.575828 -2.09808,-0.793576 -2.9501,-0.842886 1.4676,-1.266994 3.34288,-2.295458 5.61923,-2.528657 z m -33.29399,3.652507 c 4.25966,-2.998147 14.02505,-5.013066 18.82445,-1.12385 -1.04041,0.223929 -1.54262,0.986036 -2.24769,1.545293 -3.16097,-2.52304 -10.89852,-3.144949 -14.32907,-0.421443 4.28734,-2.109604 11.21516,-0.932654 14.0481,1.685772 -0.65141,5.475249 8.40048,4.505646 6.46213,-0.983365 -0.99068,1.019608 -1.49247,3.351171 -3.65251,3.09058 -2.36022,-0.284755 -1.47884,-3.91689 0.28096,-3.09058 0.65071,0.305547 0.43606,0.922396 0.84289,1.685772 0.7371,-0.05901 1.07636,-0.515709 1.12385,-1.264329 -0.0815,-0.527225 -0.85862,-0.358929 -0.84289,-0.983371 -0.19498,-0.756909 0.5351,-0.588756 0.42144,-1.264329 -4.82903,-5.176582 -16.43894,-2.860614 -20.93166,1.12385 z"
+         id="path177502"
+         style="fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177506"
+       width="3.6950014"
+       height="2.198292"
+       x="-70.486084"
+       y="162.33055"
+       transform="rotate(-26.887892)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="opacity:1;fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177748"
+       width="3.6950014"
+       height="2.198292"
+       x="116.03799"
+       y="256.91006"
+       transform="rotate(-26.887892)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="opacity:1;fill:#733e39;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect177752"
+       width="3.6950014"
+       height="2.198292"
+       x="116.03799"
+       y="256.91006"
+       transform="rotate(-26.887892)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <rect
+       style="fill:#124e89;fill-opacity:1;stroke:#181425;stroke-width:0.793752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect177754"
+       width="66.4104"
+       height="3.4395814"
+       x="80.830208"
+       y="-406.00314"
+       transform="rotate(90)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302" />
+    <g
+       id="g177760"
+       transform="rotate(-30,308.66704,-217.65581)"
+       inkscape:export-filename="C:\Users\Marcel\Circus\ArtFiles\cage-64x64grid.png"
+       inkscape:export-xdpi="96.019302"
+       inkscape:export-ydpi="96.019302">
+      <path
+         id="path177756"
+         style="opacity:1;fill:#5a6988;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 222.5536,122.82377 a 1.9059658,2.2918363 0 0 0 -1.90583,2.29185 1.9059658,2.2918363 0 0 0 1.90583,2.29185 1.9059658,2.2918363 0 0 0 1.90583,-2.29185 1.9059658,2.2918363 0 0 0 -1.90583,-2.29185 z m 0.0863,1.70739 a 1.0246533,1.2628486 0 0 1 1.02474,1.26245 1.0246533,1.2628486 0 0 1 -1.02474,1.26297 1.0246533,1.2628486 0 0 1 -1.02475,-1.26297 1.0246533,1.2628486 0 0 1 1.02475,-1.26245 z" />
+      <rect
+         style="opacity:1;fill:#feae34;fill-opacity:1;stroke:#181425;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect177758"
+         width="4.1159506"
+         height="4.8643055"
+         x="220.48399"
+         y="125.63004" />
+    </g>
   </g>
   <path
      id="path331557"
