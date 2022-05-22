@@ -14,12 +14,15 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D rb;
     public GameObject[] bustables;
     public ParticleSystem ps;
+    public Rigidbody2D[] rbs;
 
-    public Transform ground;
+    public Transform ground1;
+    public Transform ground2;
     public Transform angry;
 
     public float jumpForce;
     public float runForce;
+    public float minSoundVelocity;
 
     private float yVel;
     private bool onGround;
@@ -32,8 +35,9 @@ public class PlayerController : MonoBehaviour
     private bool morphing = false;
 
     private int morph = 0;
-    // 0 = Lion
-    // 1 = Elephant
+
+    private AudioSource phantSource;
+    private AudioSource lionSource;
 
     void Awake()
     {
@@ -42,12 +46,39 @@ public class PlayerController : MonoBehaviour
         morphAction = playerInput.actions["Morph"];
 
         animator.runtimeAnimatorController = lionController;
+
+        lionSource = AudioManager.instance.PlaySound("lion", false, false);
+        phantSource = AudioManager.instance.PlaySound("phant", false, false);
     }
     private void Update()
     {
         morphing = morphAction.WasPressedThisFrame();
-
         animator.SetFloat("MovementX", movement.x);
+
+        if (rb.velocity.magnitude >= minSoundVelocity && onGround)
+        {
+            if (morph == 0)
+            {
+                phantSource.Stop();
+                if (!lionSource.isPlaying)
+                {
+                    lionSource.Play();
+                }
+            }
+            else
+            {
+                lionSource.Stop();
+                if (!phantSource.isPlaying)
+                {
+                    phantSource.Play();
+                }
+            }
+        }
+        else
+        {
+            lionSource.Stop();
+            phantSource.Stop();
+        }
 
         if (morph == 0)
         {
@@ -73,20 +104,31 @@ public class PlayerController : MonoBehaviour
                        GameObject bust = Array.Find(bustables, b => b = col.gameObject);
                        bust.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
                     }
-
+                    foreach (Rigidbody2D rigidbody in rbs)
+                    {
+                        rigidbody.bodyType = RigidbodyType2D.Dynamic;
+                    }
                 }
                 else
                 {
                     animator.runtimeAnimatorController = elephantController;
+                    foreach (Rigidbody2D rigidbody in rbs)
+                    {
+                        rigidbody.bodyType = RigidbodyType2D.Static;
+                    }
                 }
             }
             else
             {
                 animator.runtimeAnimatorController = elephantController;
+                foreach (Rigidbody2D rigidbody in rbs)
+                {
+                    rigidbody.bodyType = RigidbodyType2D.Static;
+                }
             }
         }
 
-        Collider2D[] cols = Physics2D.OverlapCircleAll(ground.position, 0f);
+        Collider2D[] cols = Physics2D.OverlapAreaAll(ground1.position, ground2.position);
         onGround = false;
         foreach (Collider2D col in cols)
         {
@@ -111,12 +153,12 @@ public class PlayerController : MonoBehaviour
 
         if (morphing)
         {
+            AudioManager.instance.PlaySound("Morph", true, true);
+            ps.Play();
             if (morph == 0)
             {
                 morph = 1;
                 animator.runtimeAnimatorController = elephantController;
-                AudioManager.instance.PlaySound("Morph", true, true);
-                ps.Play();
             }
             else
             {
@@ -135,9 +177,12 @@ public class PlayerController : MonoBehaviour
             movement = moveAction.ReadValue<Vector2>();
             if (movement.y >= 0.5 && movement.x != 0)
             {
-                rb.AddForce(jumpForce * transform.up);
+                if (morph == 0)
+                {
+                    rb.AddForce(jumpForce * transform.up);
+                }
             }
         }
-        transform.Translate(new Vector2(movement.x * runForce, 0));
+        rb.AddForce(new Vector2(movement.x * runForce, 0), ForceMode2D.Impulse);
     }
 }

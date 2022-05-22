@@ -57,6 +57,26 @@ MonoBehaviour:
     loop: 1
   - audioClip: {fileID: 8300000, guid: 0c6e86390bec4d147bdb8d5a2560da79, type: 3}
     name: Morph
-    defualtVolume: 1
+    defualtVolume: 0.5
     defualtPitch: 0.8
     loop: 0
+  - audioClip: {fileID: 8300000, guid: 29c241affd2fa244e837b35053ae6c7d, type: 3}
+    name: Scrape
+    defualtVolume: 1
+    defualtPitch: 0.8
+    loop: 1
+  - audioClip: {fileID: 8300000, guid: ea924009b0b84b746949f17cd6a03ddc, type: 3}
+    name: Crash
+    defualtVolume: 0.5
+    defualtPitch: 0.8
+    loop: 0
+  - audioClip: {fileID: 8300000, guid: a5f803b471799b346a8ff48ea6f80df6, type: 3}
+    name: phant
+    defualtVolume: 0.4
+    defualtPitch: 0.8
+    loop: 1
+  - audioClip: {fileID: 8300000, guid: 56b27613542634c46b855c38697bbe56, type: 3}
+    name: lion
+    defualtVolume: 0.25
+    defualtPitch: 0.8
+    loop: 1

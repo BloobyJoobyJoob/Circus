@@ -13,6 +13,7 @@ public class CageDoor : MonoBehaviour
     {
         if (rb.bodyType == RigidbodyType2D.Dynamic && collision.collider.gameObject.name == "Player")
         {
+            AudioManager.instance.PlaySound("Crash", true, true);
             rb.gravityScale = 1;
             rb.mass = 0.1f;
             Invoke("RemoveCollider", 1f);
