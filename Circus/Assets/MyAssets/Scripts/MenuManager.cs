@@ -18,6 +18,6 @@ public class MenuManager : MonoBehaviour
     public void Animate(Animator anm)
     {
         anm.enabled = true;
-        Destroy(anm, 1);
+        Destroy(anm.gameObject, 1);
     }
 }

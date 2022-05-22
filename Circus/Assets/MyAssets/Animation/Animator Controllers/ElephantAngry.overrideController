@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ElephantAngry
+  m_Controller: {fileID: 9100000, guid: c8395c87a62a91249a4f8f2b81268922, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7408434fb5bc75f4f94bd3163b279249, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59f79fe5f85236940adfc4ace8bc0e12, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fa3900ef6eca1d8408e7113ce77acc03, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bab0958ae91f5fa4a84ccf2d78527369, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bdcc02e836af977468f4d2414a222976, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 10833b8ddadd8ff4aa6f60531969cbb2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0cb5b12239aadec4b8addbfa4ae51b11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59f79fe5f85236940adfc4ace8bc0e12, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d0e35ca0d3682164c89af0a5e53bf89d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bab0958ae91f5fa4a84ccf2d78527369, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 00e93e10a1048644c983a65238156e77, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d9fdbd48ea7327446b59c6fcdfa7a5b0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f7251d043832d84ebbb1ceeddd6fd15, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 72a0b7e9e2aabc744a5e21709744483a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 37afceb6fc707c14783f0f01be72fe88, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c4852e62c8e6db541995fa75d8950982, type: 2}

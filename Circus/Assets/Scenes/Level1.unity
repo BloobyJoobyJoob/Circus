@@ -228,6 +228,7 @@ MonoBehaviour:
   playerInput: {fileID: 272488541}
   animator: {fileID: 272488542}
   elephantController: {fileID: 22100000, guid: 3028aeec24b615e42aa452edf0e9df7e, type: 2}
+  angryElephantController: {fileID: 22100000, guid: f3794c6724525c44db39ba1805029cd2, type: 2}
   lionController: {fileID: 9100000, guid: c8395c87a62a91249a4f8f2b81268922, type: 2}
   rb: {fileID: 272488543}
   ground: {fileID: 1342629691}

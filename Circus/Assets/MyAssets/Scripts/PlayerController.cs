@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public PlayerInput playerInput;
     public Animator animator;
     public RuntimeAnimatorController elephantController;
+    public RuntimeAnimatorController angryElephantController;
     public RuntimeAnimatorController lionController;
     public Rigidbody2D rb;
 
@@ -53,6 +54,24 @@ public class PlayerController : MonoBehaviour
             else
             {
                 animator.SetBool("Roar", false);
+            }
+        }
+        else
+        {
+            if (movement.x != 0 && movement.y == 0)
+            {
+                if (ability)
+                {
+                    animator.runtimeAnimatorController = angryElephantController;
+                }
+                else
+                {
+                    animator.runtimeAnimatorController = elephantController;
+                }
+            }
+            else
+            {
+                animator.runtimeAnimatorController = elephantController;
             }
         }
 
