@@ -50,6 +50,17 @@ public class PlayerController : MonoBehaviour
         lionSource = AudioManager.instance.PlaySound("lion", false, false);
         phantSource = AudioManager.instance.PlaySound("phant", false, false);
     }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.gameObject.name == "Gem")
+        {
+            if (ability)
+            {
+                collision.gameObject.GetComponent<Gem>().Eat();
+            }
+        }
+    }
     private void Update()
     {
         morphing = morphAction.WasPressedThisFrame();
