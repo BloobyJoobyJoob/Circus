@@ -1023,14 +1023,14 @@
     <text
        xml:space="preserve"
        style="font-size:14.0753px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#feae34;fill-opacity:1;stroke-width:0.164944"
-       x="283.98166"
-       y="193.80725"
+       x="286.28528"
+       y="194.19847"
        id="text173017"><tspan
          sodipodi:role="line"
          id="tspan173015"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0753px;font-family:Comico;-inkscape-font-specification:Comico;fill:#feae34;fill-opacity:1;stroke-width:0.164944"
-         x="283.98166"
-         y="193.80725">continue</tspan></text>
+         x="286.28528"
+         y="194.19847">continue</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90206px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ead4aa;fill-opacity:1;stroke-width:0.0974971"
@@ -1366,7 +1366,7 @@
          id="tspan181197"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.16933px;font-family:Comico;-inkscape-font-specification:Comico;fill:#ead4aa;fill-opacity:1;stroke-width:0.107453"
          x="254.94504"
-         y="95.807159">s/down - Switch</tspan></text>
+         y="95.807159">s/down - transition</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.16933px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#ead4aa;fill-opacity:1;stroke-width:0.107453"
